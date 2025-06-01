@@ -1,9 +1,12 @@
+ Educational Website
+
 You can access the project [Clicking here](https://brighty-nerd.vercel.app/)
 
+---
 
 ## Description
 
-Welcome to Educational Website! This is a educational website using HTML, CSS, and JavaScript to facilitate seamless navigation and optimal user experience. Dedicated blog section, allowing students to access and refer to study materials, articles, and educational resources •	Designed a user-friendly frontend with HTML and CSS to create an intuitive and visually appealing layout for courses. Responsive on various devices.
+Welcome to Educational Website! This is an educational website using HTML, CSS, and JavaScript to facilitate seamless navigation and optimal user experience. Dedicated blog section allows students to access and refer to study materials, articles, and educational resources. Designed a user-friendly frontend with HTML and CSS to create an intuitive and visually appealing layout for courses. Responsive on various devices.
 
 ## Table of Contents
 
@@ -12,9 +15,10 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 - [Contributing](#contributing)
 - [License](#license)
 
-# Installation 
-installation command
-<br/>  git clone <"https://github.com/Techwolf78/Educational-Website">
+## Installation
+
+To clone the repository, run:
+<br/> git clone https://github.com/Techwolf78/Educational-Website.git
 
 # Usage
 For Students to learn and grow by having access to wide study materials. 
