@@ -1,9 +1,4 @@
-<h1 align="center">You can access the project <a href="https://brighty-nerd.vercel.app/" target="_blank">Clicking here</a></h1>
-
-
----
-
-</br>
+You can access the project [Clicking here](https://brighty-nerd.vercel.app/)
 
 
 ## Description
